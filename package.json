@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "gemini test test/regression"
+  },
+  "devDependencies": {
+    "gemini": "4.12.0",
+    "selenium-standalone": "^5.7.2"
+  }
+}
